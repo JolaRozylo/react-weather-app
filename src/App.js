@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <div className="App">
-        <Search />
+        <Search city="London" />
       </div>
       <Footer />
     </div>
