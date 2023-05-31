@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import Search from "./Search";
-import Result from "./Result";
 import Footer from "./Footer";
 
 export default function App() {
@@ -9,7 +8,6 @@ export default function App() {
     <div>
       <div className="App">
         <Search />
-        <Result />
       </div>
       <Footer />
     </div>
