@@ -118,3 +118,12 @@ a {
   font-size: 0.8vw;
   top: -2.8vw;
 }
+
+.FAicons {
+  color: #5a6275;
+}
+.SearchInput {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.9vw;
+  color: #5a6275;
+}
